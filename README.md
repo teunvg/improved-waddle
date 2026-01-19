@@ -4,3 +4,4 @@ This repository contains the source code for the "improved-waddle" project. Belo
 
 1. Clone the repository
 2. Open it
+3. Run it (if there is anything to run, that is....)
